@@ -1,0 +1,44 @@
+_repo: With-the-Allies-to-Pekin-A-Tale-of-the-Relief-of-the-Legations_47008
+contributor:
+  illustrator:
+    agent_name: Paget, Walter
+    aliases:
+    - Paget, Wal. (Walter)
+    - Paget, W. (Walter)
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '9756'
+    url: http://www.gutenberg.org/2009/agents/9756
+creator:
+  author:
+    agent_name: Henty, G. A. (George Alfred)
+    alias: Henty, George Alfred
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '1032'
+    url: http://www.gutenberg.org/2009/agents/1032
+    wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
+description: ''
+gutenberg_issued: '2014-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47008'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcsh 'Rescues -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Youth and death -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Soldiers -- Juvenile fiction'
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Beijing (China) -- History -- Siege, 1900 -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Merchants -- Juvenile fiction'
+title: 'With the Allies to Pekin: A Tale of the Relief of the Legations'
+url: http://www.gutenberg.org/ebooks/47008
